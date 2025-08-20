@@ -128,6 +128,6 @@
     e.preventDefault();
     const uOk = validateUsername();
     const pOk = validatePassword();
-     window.location.href = "https://koushikreddybachuprojrct.lovable.app/review";
+     window.location.href = "https://koushikreddybachuproject.lovable.app";
   });
 })();
